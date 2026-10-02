@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="760" viewBox="0 0 880 760" fill="none">
+  <rect width="880" height="760" fill="#E8ECE6"/>
+  <path d="M0 95h880M0 190h880M0 285h880M0 380h880M0 475h880M0 570h880M0 665h880M110 0v760m110-760v760m110-760v760m110-760v760m110-760v760m110-760v760m110-760v760" stroke="#9FABAA" stroke-opacity=".33"/>
+  <path d="M433 127 631 241v228L433 583 235 469V241l198-114Z" stroke="#41616A" stroke-width="2"/>
+  <path d="m433 190 143 82v166l-143 83-143-83V272l143-82Z" stroke="#7E9992" stroke-width="2"/>
+  <path d="m433 254 88 50v102l-88 51-88-51V304l88-50Z" fill="#A8BAB0" fill-opacity=".48" stroke="#376880" stroke-width="2"/>
+  <circle cx="433" cy="127" r="7" fill="#376880"/><circle cx="631" cy="241" r="7" fill="#376880"/><circle cx="631" cy="469" r="7" fill="#376880"/><circle cx="433" cy="583" r="7" fill="#376880"/><circle cx="235" cy="469" r="7" fill="#376880"/><circle cx="235" cy="241" r="7" fill="#376880"/>
+  <path d="M433 127V70m198 171 58-34m-58 262 58 34M433 583v65m-198-179-57 33m57-263-57-34" stroke="#526C70" stroke-opacity=".6" stroke-dasharray="3 6"/>
+  <path d="M730 202h78m-78 18h52M730 507h78m-78 18h45M72 205h75m-75 18h48M72 515h75m-75 18h54" stroke="#597279" stroke-opacity=".6"/>
+  <text x="70" y="120" fill="#182B32" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">REVIEW</text><text x="731" y="166" fill="#182B32" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">RECORD</text><text x="724" y="571" fill="#182B32" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">TRACE</text><text x="73" y="580" fill="#182B32" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">REFINE</text>
+  <text x="342" y="708" fill="#465C62" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">A CONCEPTUAL QUALITY SYSTEM</text>
+</svg>

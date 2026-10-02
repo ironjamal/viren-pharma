@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="680" viewBox="0 0 900 680" fill="none">
+  <rect width="900" height="680" rx="8" fill="#E6EBE5"/>
+  <path d="M0 98h900M0 196h900M0 294h900M0 392h900M0 490h900M0 588h900M96 0v680m96-680v680m96-680v680m96-680v680m96-680v680m96-680v680m96-680v680m96-680v680" stroke="#AAB6B0" stroke-opacity=".38"/>
+  <circle cx="476" cy="332" r="192" stroke="#536C71" stroke-opacity=".25"/>
+  <circle cx="476" cy="332" r="139" stroke="#536C71" stroke-opacity=".42"/>
+  <circle cx="476" cy="332" r="84" stroke="#536C71" stroke-opacity=".6"/>
+  <path d="M293 386c60-28 104-70 143-111 47-50 89-104 164-116 53-8 99 11 151 50" stroke="#2B6580" stroke-width="3" stroke-linecap="round"/>
+  <path d="M289 442c63-3 113-18 166-47 54-29 85-65 139-71 58-7 104 15 153 48" stroke="#92A89F" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="436" cy="275" r="8" fill="#2B6580"/><circle cx="600" cy="159" r="8" fill="#2B6580"/><circle cx="594" cy="324" r="8" fill="#92A89F"/>
+  <path d="M118 548h245M118 569h176M643 522h144M643 543h89" stroke="#597077" stroke-opacity=".7"/>
+  <text x="118" y="98" fill="#182B32" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">FIG 02 / DEVELOPMENT MODEL</text>
+  <text x="645" y="594" fill="#43585D" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">SCHEMATIC / CONCEPT ONLY</text>
+  <circle cx="720" cy="100" r="27" stroke="#95A99F"/><path d="M708 100h24m-12-12v24" stroke="#95A99F"/>
+</svg>

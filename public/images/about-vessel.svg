@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="820" viewBox="0 0 940 820" fill="none">
+  <rect width="940" height="820" fill="#E1E8E2"/>
+  <path d="M0 102h940M0 204h940M0 306h940M0 408h940M0 510h940M0 612h940M0 714h940M94 0v820m94-820v820m94-820v820m94-820v820m94-820v820m94-820v820m94-820v820m94-820v820m94-820v820" stroke="#98A9A0" stroke-opacity=".26"/>
+  <circle cx="622" cy="360" r="236" fill="#D2DCD4"/>
+  <circle cx="622" cy="360" r="180" stroke="#A0B2A8"/>
+  <path d="M263 152h104v28l-15 26v354c0 34-28 62-62 62h-1c-34 0-62-28-62-62V206l-15-26v-28Z" fill="#F1F2EA" fill-opacity=".68" stroke="#4B666B" stroke-width="2"/>
+  <path d="M231 450h135v110c0 34-28 62-62 62h-1c-34 0-62-28-62-62V450Z" fill="#8EACA4" fill-opacity=".78"/>
+  <path d="M263 153h104v33H263z" fill="#49636B"/><path d="M279 274h26m-26 40h19m-19 40h26m-26 40h19" stroke="#4B666B" stroke-width="2"/>
+  <path d="M477 305h186l-24 39v224c0 47-38 85-85 85h-2c-47 0-85-38-85-85V344l-24-39Z" fill="#F1F2EA" fill-opacity=".7" stroke="#4B666B" stroke-width="2"/>
+  <path d="M467 458h205v110c0 47-38 85-85 85h-2c-47 0-85-38-85-85V458Z" fill="#BDA67F" fill-opacity=".78"/>
+  <path d="M477 305h186" stroke="#4B666B" stroke-width="3"/><path d="M506 392v162m124-162v162" stroke="#fff" stroke-opacity=".42" stroke-width="4"/>
+  <ellipse cx="482" cy="688" rx="263" ry="30" fill="#536E6C" fill-opacity=".11"/>
+  <path d="M115 677h191m-191 16h143m516-502h67m-67 16h39" stroke="#42616A" stroke-opacity=".68"/>
+  <text x="99" y="115" fill="#192E36" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">SCIENCE, WITH A HUMAN PURPOSE</text>
+  <text x="719" y="647" fill="#486168" font-family="Arial,sans-serif" font-size="10" letter-spacing="1.6">ORIGINAL CONCEPT ART</text>
+</svg>

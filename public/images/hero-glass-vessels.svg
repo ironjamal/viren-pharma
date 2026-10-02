@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="1120" viewBox="0 0 920 1120" fill="none">
+  <defs>
+    <linearGradient id="ground" x1="80" y1="90" x2="870" y2="1040" gradientUnits="userSpaceOnUse"><stop stop-color="#213B43"/><stop offset=".48" stop-color="#162B34"/><stop offset="1" stop-color="#0D1D25"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(0 490 -430 0 590 363)" gradientUnits="userSpaceOnUse"><stop stop-color="#B4C3B5" stop-opacity=".28"/><stop offset="1" stop-color="#B4C3B5" stop-opacity="0"/></radialGradient>
+    <linearGradient id="glass" x1="250" y1="340" x2="620" y2="790" gradientUnits="userSpaceOnUse"><stop stop-color="#EFF1E8" stop-opacity=".16"/><stop offset=".5" stop-color="#A5C0B7" stop-opacity=".05"/><stop offset="1" stop-color="#8CA9A4" stop-opacity=".2"/></linearGradient>
+    <linearGradient id="liquid" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#97B9B0" stop-opacity=".88"/><stop offset="1" stop-color="#427C82" stop-opacity=".58"/></linearGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#D6B385" stop-opacity=".92"/><stop offset="1" stop-color="#8A6C4A" stop-opacity=".72"/></linearGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="22"/></filter>
+    <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse"><path d="M46 0H0V46" stroke="#D8E1D7" stroke-opacity=".09" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="920" height="1120" fill="url(#ground)"/>
+  <rect width="920" height="1120" fill="url(#grid)"/>
+  <rect width="920" height="1120" fill="url(#glow)"/>
+  <path d="M0 776 920 660v460H0V776Z" fill="#0A171D" fill-opacity=".38"/>
+  <path d="m0 778 920-118M0 836l920-118M0 894l920-118M0 952l920-118M0 1010l920-118" stroke="#BAC8BF" stroke-opacity=".12"/>
+  <path d="M98 1120 460 666m-226 454 226-454m-92 454 92-454m42 454-42-454m183 454L460 666m276 454L460 666m368 454L460 666" stroke="#BAC8BF" stroke-opacity=".1"/>
+  <ellipse cx="475" cy="875" rx="251" ry="51" fill="#A3B5AA" fill-opacity=".16" filter="url(#soft)"/>
+  <path d="M391 247h150v59l-18 31v391c0 32-25 57-57 57h-1c-32 0-57-25-57-57V337l-17-31v-59Z" fill="url(#glass)" stroke="#E0E8DE" stroke-opacity=".76" stroke-width="2"/>
+  <path d="M408 632h117v96c0 32-25 57-57 57h-1c-32 0-57-25-57-57v-96Z" fill="url(#liquid)"/>
+  <path d="M391 247h150v59H391z" fill="#E5E5DB" fill-opacity=".85"/>
+  <path d="M397 272h138M397 286h138" stroke="#53636A" stroke-opacity=".33"/>
+  <path d="M404 391h25m-25 36h17m-17 37h25m-25 36h17m-17 37h25m-25 36h17" stroke="#E3E9DF" stroke-opacity=".65" stroke-width="2"/>
+  <path d="M452 350v257" stroke="#F0F2E9" stroke-opacity=".58" stroke-width="3"/>
+  <path d="M482 344v173" stroke="#F0F2E9" stroke-opacity=".22" stroke-width="2"/>
+  <path d="M574 455h118v17l-13 21v263c0 24-19 43-43 43h-7c-24 0-43-19-43-43V493l-12-21v-17Z" fill="url(#glass)" stroke="#E0E8DE" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M588 661h91v95c0 24-19 43-43 43h-7c-24 0-43-19-43-43v-95Z" fill="url(#amber)" fill-opacity=".72"/>
+  <path d="M574 455h118v28H574z" fill="#D8DDD3" fill-opacity=".72"/>
+  <path d="M594 527h20m-20 28h15m-15 28h20m-20 28h15" stroke="#EFF0E8" stroke-opacity=".6" stroke-width="2"/>
+  <path d="M242 524h116v16l-12 20v197c0 25-20 45-45 45h-3c-25 0-45-20-45-45V560l-11-20v-16Z" fill="url(#glass)" stroke="#E0E8DE" stroke-opacity=".59" stroke-width="2"/>
+  <path d="M256 689h89v68c0 25-20 45-45 45h-3c-25 0-45-20-45-45v-68Z" fill="url(#liquid)" fill-opacity=".75"/>
+  <path d="M242 524h116v23H242z" fill="#D8DDD3" fill-opacity=".7"/>
+  <path d="M263 582h20m-20 29h14m-14 29h20m-20 29h14" stroke="#EFF0E8" stroke-opacity=".62" stroke-width="2"/>
+  <path d="M228 428h138M556 395h173" stroke="#B8CAC0" stroke-opacity=".31"/>
+  <circle cx="229" cy="428" r="4" fill="#B8CAC0"/><circle cx="729" cy="395" r="4" fill="#B8CAC0"/>
+  <path d="M228 428v73m501-106v52" stroke="#B8CAC0" stroke-opacity=".31" stroke-dasharray="3 7"/>
+  <text x="99" y="190" fill="#E5E9DF" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">VIREN / RESEARCH STUDY</text>
+  <text x="99" y="215" fill="#A8BBB4" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">FORM 001 · GLASS / LIGHT / MATTER</text>
+  <text x="725" y="928" fill="#A8BBB4" font-family="Arial,sans-serif" font-size="10" letter-spacing="2" transform="rotate(-90 725 928)">ILLUSTRATIVE · NOT A FACILITY IMAGE</text>
+  <path d="M98 236h78m-78 12h42m537 720h68" stroke="#DBE2D7" stroke-opacity=".45"/>
+</svg>
